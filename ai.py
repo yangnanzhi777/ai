@@ -1,8 +1,4 @@
-import streamlit as st
 import requests
-st.set_page_config(page_title="我爱你")
-st.title("wwww")
-st.markdown("fifi")
 
 import json
 
